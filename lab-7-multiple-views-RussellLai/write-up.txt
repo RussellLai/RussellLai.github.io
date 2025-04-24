@@ -1,0 +1,13 @@
+How long did this take (estimate)?
+    This lab took me about 6 hours to complete.
+What were the enjoyable aspects of the lab?
+    I really enjoyed the part of changing the shapes for the scatter plot, 
+    it also gave me valuable insights and inspirations for my final project. 
+What were the challenging parts of this lab?
+    The challenging part of this lab for me is the interaction. I had some
+    issues figuring out which part of the code should be placed in which
+    document at first, but I managed to figure them out. 
+What resources did you use? Include links to websites below
+    The main resources I used are the lab guide and past labs to remind me 
+    the codes of doing the things we have learned, and I also asked some of
+    my friends when I am having troubles understanding the code or debugging.
