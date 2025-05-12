@@ -7,7 +7,10 @@
 </head>
 <body> 
   <h1>Bestselling Books Dashboard</h1>
-
+  <h4 class="sr-only">
+  This dashboard shows that across the selected years, Non Fiction books outnumber Fiction books in most of the years. 
+  Additionally, most books are highly rated, typically between 4.3 and 4.9 stars, with prices varying widely but clustering below $30.
+</h4>
   <div id="controls">
     <strong>Filter by Year:</strong>
     <button id="select-all">Select All</button>
@@ -17,10 +20,6 @@
   </div>
 
   <div class="container">
-    <p class="sr-only">
-      This dashboard shows that Non Fiction books consistently appear more frequently in the Amazon Top 50 Bestsellers from 2009–2019. Most books are priced under $30 and have user ratings between 4.3 and 4.9.
-    </p>
-
     <figure>
       <svg id="barchart" aria-labelledby="barchart-caption"></svg>
       <figcaption id="barchart-caption" class="sr-only">
